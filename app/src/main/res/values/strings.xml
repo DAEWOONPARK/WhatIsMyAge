@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">What is my age?</string>
+
+    <string name="edit_hint_birth">Enter your birth</string>
+    <string name="find_age_button_text">Find Age</string>
+
+    <string name="ko_age_text">Your korean age is %d years</string>
+    <string name="in_age_text">Your international age is %d years</string>
+    <string name="validation_error_message">Please enter valid birth</string>
+
+    <string name="txt_sample_birth">ex) September 26th, 1989 → 19890926</string>
+</resources>
